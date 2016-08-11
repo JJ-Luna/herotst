@@ -1,4 +1,4 @@
-# node-js-getting-started -- DEV3
+# node-js-getting-started -- QA1
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
